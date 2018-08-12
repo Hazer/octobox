@@ -28,6 +28,7 @@ gem 'rack-canonical-host'
 gem 'gemoji'
 gem 'bootsnap', require: false
 gem 'bugsnag'
+gem 'searrrch'
 
 # Supported databases
 gem 'mysql2', require: false

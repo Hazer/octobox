@@ -268,6 +268,7 @@ GEM
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
+    searrrch (0.0.5)
     sidekiq (5.2.1)
       connection_pool (~> 2.2, >= 2.2.2)
       rack-protection (>= 1.5.0)
@@ -368,6 +369,7 @@ DEPENDENCIES
   rgb
   rubocop
   sassc-rails
+  searrrch
   sidekiq
   sidekiq-scheduler
   sidekiq-unique-jobs
